@@ -121,8 +121,7 @@
   padding: 12px 32px 11px 31px;
 }
 .lots {
-  width: 1100px;
-  height: 723px;
+  min-height: 723px;
   margin: 180px 24px 120px 24px;
 }
 .lots__section-title {
@@ -209,6 +208,11 @@ height: 47px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+}
+
+.lots__more {
+  display: inline-block;
+  margin: 30px 820px 2px 40px;
 }
 .about {
   display: grid;
