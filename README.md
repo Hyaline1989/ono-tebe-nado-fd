@@ -9,3 +9,4 @@
 ## Автор
 Связаться можно в [Telegram](https://t.me/hyaline1989).
 
+https://github.com/Hyaline1989/ono-tebe-nado-fd
