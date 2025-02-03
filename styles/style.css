@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .page {
   font-family: "Raleway", Arial, sans-serif;
   font-weight: normal;
@@ -347,6 +351,7 @@
   height: 48px;
   list-style: none;
   margin: 6px 44px 126px 183.5px;
+  cursor: pointer;
 }
 /* .footer__social-item {
 } */
