@@ -178,7 +178,7 @@ html {
 .lots-item {
   position: relative;
   width: 334px;
-  min-height: 596px;
+  height: 596px;
   list-style: none;
   /* z-index: 2; */
 }
