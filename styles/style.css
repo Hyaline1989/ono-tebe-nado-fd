@@ -72,7 +72,7 @@ html {
   background-repeat: no-repeat; */
   background: url(../images/cover.jpg) center/cover no-repeat;
 }
-.cover__overlay {
+.overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -187,15 +187,15 @@ html {
   list-style: none;
   /* z-index: 2; */
 }
-.lots__overlay {
+/* .lots__overlay {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
   background: rgba(0, 0, 0, 0.6);
-  /* z-index: 1; */
-}
+} */
+
 .lots__title {
   font-weight: 700;
   font-size: 22px;
