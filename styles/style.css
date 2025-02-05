@@ -32,6 +32,10 @@ html {
   list-style: none;
 }
 
+.header__nav-link_no-marker {
+  text-decoration: none;
+}
+
 .header__logo {
   display: block;
   width: 148px;
@@ -98,17 +102,17 @@ html {
   display: block;
 } */
 
-.cover__word_first {
+.cover__word-subject {
   align-self: flex-start;
   padding: 0 0 20px 50px;
 }
 
-.cover__word_second {
+.cover__word-question {
   align-self: center;
   padding: 0 0 20px 0;
 }
 
-.cover__word_third {
+.cover__word-action {
   display: flex;
   justify-content: flex-end;
   align-self: flex-end;
@@ -282,7 +286,7 @@ html {
   text-transform: uppercase;
   color: #000;
 }
-.about__first-paragraph {
+.about__description-intro {
   margin-top: 100px;
   margin-bottom: 23px;
   width: 688px;
@@ -292,7 +296,7 @@ html {
   line-height: 120%;
   color: #000;
 }
-.about__second-paragraph {
+.about__description-main {
   margin: 0;
   min-width: 693px;
   min-height: 168px;
